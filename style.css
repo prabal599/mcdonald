@@ -1,0 +1,356 @@
+#header
+{
+    display: flex;
+    
+}
+#logo
+{
+    margin-left: 80px;
+}
+ul 
+{
+    display: flex;
+    list-style: none;
+    margin-left: 10px;
+}
+ul li
+{
+    margin-left: 20px;
+}
+#search
+{
+    margin-left: 10px;
+    width: 130px;
+    height: 20px;
+    margin-top: 20px;
+    border-color: white;
+}
+#searchbar
+{
+    width: 15px;
+    height: 20px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+#location
+{
+    width: 20px;
+    height: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+a#link
+{
+    margin-top: 20px;
+}
+#btn
+{
+    width: 100px;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #fdc945;
+    color: black;
+    border-radius: 5px;
+    border-color: #fdc945;
+}
+#head
+{
+    display: flex;
+}
+#head 
+{
+    margin-left: 230px;
+}
+#head a
+{
+    margin-left: 30px;
+    font-size:large;
+}
+#crispy
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#flex
+{
+    display: flex;
+}
+#flex h1
+{
+    margin-left: 40px;
+    margin-top: 120px;
+}
+.crispy p
+{
+    margin-left: 40px;
+}
+#btnn
+{
+    margin-left: 40px;
+    font-size: larger;
+    background-color: #fdc945;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 20px;
+    border-color: #fdc945;
+}
+#mac
+{    
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.mac
+{
+    display: flex;
+}
+.mac h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.mac p 
+{
+    margin-left: 40px;
+}
+#get
+{
+    margin-left: 40px;
+    font-size: larger;
+    background-color: #fdc945;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 20px;
+    border-color: #fdc945;
+}
+#value
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.mcvalue
+{
+    display: flex;
+}
+.mcvalue h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.mcvalue p
+{
+    margin-left: 40px;
+}
+#order
+{
+    margin-left: 40px;
+    font-size: larger;
+    background-color: #fdc945;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 20px;
+    border-color: #fdc945;
+}
+#breakfast
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.breakfast
+{
+    display: flex;
+}
+.breakfast h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.breakfast p
+{
+    margin-left: 40px;
+}
+#order
+{
+     margin-left: 40px;
+    font-size: larger;
+    background-color: #fdc945;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 20px;
+    border-color: #fdc945;
+}
+.dilivery
+{
+    display: flex;
+}
+#dilivery
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.dilivery h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.dilivery p 
+{
+     margin-left: 40px;
+}
+.gift
+{
+    display: flex;
+}
+#gift
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.gift h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.gift p 
+{
+     margin-left: 40px;
+}
+.black
+{
+    display: flex;
+}
+#black
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.black h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.black p
+{
+    margin-left: 40px;
+}
+.best
+{
+    display: flex;
+}
+#best
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.best h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.best p
+{
+    margin-left: 40px;
+}
+.faves
+{
+    display: flex;
+}
+#faves
+{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.faves h1
+{
+    margin-left: 40px;
+    margin-top: 180px;
+}
+.faves p
+{
+    margin-left: 40px;
+}
+.information h2
+{
+    padding-top: 130px;
+    margin-left: 120px;
+}
+.information p
+{
+    font-size: large;
+    margin-left: 120px;
+}
+.information
+{
+    display: flex;
+}
+.media
+{
+    display: flex;
+    margin-top: 100px;
+}
+#facebook
+{
+    width: 40px;
+    height: 40px;
+    margin-left: 120px;
+}
+#x
+{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+#youtube
+{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+#tumblr
+{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+#spotify
+{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+#instagram
+{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+#app
+{
+    margin-left: 500px;
+}
+#line
+{
+    border: 1px solid black;
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
